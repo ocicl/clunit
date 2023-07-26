@@ -1,0 +1,10 @@
+* clunit
+
+CLUnit: A Common Lisp Unit Testing Framework.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/tgutu/clunit.git   |
+| commit  | 6f6d728  |
+| systems | clunit |
+|---------+-------------------------------------------|
+
